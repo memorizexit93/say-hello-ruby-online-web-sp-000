@@ -2,5 +2,4 @@
 def say_hello
   puts "Hello, #(name)!")
   puts (Ruby Programmer)
-  puts (Kathryn)
 end
